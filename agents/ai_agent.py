@@ -11,7 +11,7 @@ from tools.soil_tool import soil_tool
 
 llm = ChatOpenAI(
     model="gpt-4o-mini",
-    openai_api_key="xxxxxx-oFx0OmrjBSCEUmvDqcL2lnk66Z81Q90RBg570rYbA3irL7UEDFcj6pWicuF-7KjVg_MNeI7B0hT3BlbkFJpjJvL0Sj1PzR-ypxSjt1joJqaAkdAe-12BcDYkKH7SpGrSuKHN3Nx08QYoA1_jFWAsyCjh8WoA"
+    openai_api_key="xxxxxx---xxxxxx"
 )
 
 tools = [
